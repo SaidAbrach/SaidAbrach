@@ -50,18 +50,12 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/said-abrach/) to see
 ---
 
 ### 📈 **My Projects**
-Here are a few of my favorite projects:
+I'm currently revamping my projects to create a more polished and professional profile.
+**Soon**, I'll be uploading new and improved projects one by one, showcasing my skills in web and mobile development.
 
-- 📱 **PharmcyApp**  
-  A mobile app built with React Native and Expo for managing tasks on the go.
-  
-- 🌐 **Reservation-Platform**  
-  A web application developed using Laravel for seamless e-commerce experiences.
-  
-- 🤖 **i will finish it soon**  
-  A machine learning project using Python and OpenCV to detect and classify objects.
+Stay tuned, and feel free to explore my GitHub repositories for more updates!
 
-_For more, check out my [GitHub repositories](https://github.com/SaidAbrach)._
+[GitHub repositories](https://github.com/SaidAbrach)._
 
 ---
 
